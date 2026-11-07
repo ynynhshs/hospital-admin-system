@@ -1,0 +1,6 @@
+{
+  "name": "MedAdmin Pro - Hospital HR, Facility & Reporting System",
+  "description": "Comprehensive Hospital Administration, HR, Facility Leak Detection, Attendance, Leave, Employee Records, Audit Trail, and Reporting System powered by Express, MongoDB, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
